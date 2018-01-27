@@ -184,7 +184,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 321}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 116
+  controlID: 11
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -642,18 +642,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts/Player
   m_ViewMode: 1
   m_StartGridSize: 40
   m_LastFolders:
-  - Assets
+  - Assets/Scripts/Player
   m_LastFoldersGridSize: 40
   m_LastProjectPath: C:\Users\Averh\Documents\workspaces\Git\GGJ2018\Robo_Advent
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: 44280000
-    m_LastClickedID: 10308
+    scrollPos: {x: 0, y: 366}
+    m_SelectedIDs: e42d0000
+    m_LastClickedID: 11748
     m_ExpandedIDs: 000000004428000080290000f0290000fe290000ac2a0000202b0000a82b00000e2c0000422e00004e2f0000862f0000d02f0000b6300000b8300000ba300000bc300000be300000c0300000c2300000c4300000c6300000c8300000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -709,7 +709,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300006ed5ffff342900001e280000c82700001c5cfcff9a2f00009e2f0000ac2a00008e29000092290000e8300000422a0000c23000002a2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -791,7 +791,7 @@ MonoBehaviour:
     height: 382
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: fc050000
     m_LastClickedID: 0
     m_ExpandedIDs: a4fbffff00000000
     m_RenameOverlay:
