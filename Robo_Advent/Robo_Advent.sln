@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robo_Advent", "Robo_Advent.csproj", "{83A32E07-7361-F747-22F9-72856C4CD5EC}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robo_Advent", "Assembly-CSharp.csproj", "{4E18D694-411D-FF1A-07E7-357FFDBFDB56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,12 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83A32E07-7361-F747-22F9-72856C4CD5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83A32E07-7361-F747-22F9-72856C4CD5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83A32E07-7361-F747-22F9-72856C4CD5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83A32E07-7361-F747-22F9-72856C4CD5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E18D694-411D-FF1A-07E7-357FFDBFDB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E18D694-411D-FF1A-07E7-357FFDBFDB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E18D694-411D-FF1A-07E7-357FFDBFDB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E18D694-411D-FF1A-07E7-357FFDBFDB56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
