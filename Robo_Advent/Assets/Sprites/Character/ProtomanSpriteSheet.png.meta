@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 888e645a64e7dd941ab35662630060ce
+timeCreated: 1515050750
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProtomanSpriteSheet_0
+    21300002: ProtomanSpriteSheet_2
+    21300004: ProtomanSpriteSheet_3
+    21300006: ProtomanSpriteSheet_4
+    21300008: ProtomanSpriteSheet_5
+    21300010: ProtomanSpriteSheet_6
+    21300012: ProtomanSpriteSheet_7
+    21300014: ProtomanSpriteSheet_8
+    21300016: ProtomanSpriteSheet_9
+    21300018: ProtomanSpriteSheet_10
+    21300020: ProtomanSpriteSheet_11
+    21300022: ProtomanSpriteSheet_12
+    21300024: ProtomanSpriteSheet_13
+    21300026: ProtomanSpriteSheet_14
+    21300028: ProtomanSpriteSheet_15
+    21300030: ProtomanSpriteSheet_16
+    21300032: ProtomanSpriteSheet_17
+    21300034: ProtomanSpriteSheet_18
+    21300036: ProtomanSpriteSheet_19
+    21300038: ProtomanSpriteSheet_20
+    21300040: ProtomanSpriteSheet_21
+    21300042: ProtomanSpriteSheet_22
+    21300044: ProtomanSpriteSheet_23
+    21300046: ProtomanSpriteSheet_24
+    21300048: ProtomanSpriteSheet_25
+    21300050: ProtomanSpriteSheet_26
+    21300052: ProtomanSpriteSheet_27
+    21300054: ProtomanSpriteSheet_28
+    21300056: ProtomanSpriteSheet_29
+    21300058: ProtomanSpriteSheet_30
+    21300060: ProtomanSpriteSheet_31
+    21300062: ProtomanSpriteSheet_32
+    21300064: ProtomanSpriteSheet_33
+    21300066: ProtomanSpriteSheet_34
+    21300068: ProtomanSpriteSheet_35
+    21300070: ProtomanSpriteSheet_36
+    21300072: ProtomanSpriteSheet_37
+    21300074: ProtomanSpriteSheet_38
+    21300076: ProtomanSpriteSheet_39
+    21300078: ProtomanSpriteSheet_40
+    21300080: ProtomanSpriteSheet_41
+    21300082: ProtomanSpriteSheet_42
+    21300084: ProtomanSpriteSheet_43
+    21300086: ProtomanSpriteSheet_44
+    21300088: ProtomanSpriteSheet_45
+    21300090: ProtomanSpriteSheet_46
+    21300092: ProtomanSpriteSheet_47
+    21300094: ProtomanSpriteSheet_48
+    21300096: ProtomanSpriteSheet_49
+    21300098: ProtomanSpriteSheet_50
+    21300100: ProtomanSpriteSheet_51
+    21300102: ProtomanSpriteSheet_52
+    21300104: ProtomanSpriteSheet_53
+    21300106: ProtomanSpriteSheet_54
+    21300108: ProtomanSpriteSheet_55
+    21300110: ProtomanSpriteSheet_56
+    21300112: ProtomanSpriteSheet_57
+    21300114: ProtomanSpriteSheet_58
+    21300116: ProtomanSpriteSheet_59
+    21300118: ProtomanSpriteSheet_60
+    21300120: ProtomanSpriteSheet_61
+    21300122: ProtomanSpriteSheet_62
+    21300124: ProtomanSpriteSheet_63
+    21300126: ProtomanSpriteSheet_64
+    21300128: ProtomanSpriteSheet_65
+    21300130: ProtomanSpriteSheet_66
+    21300132: ProtomanSpriteSheet_67
+    21300134: ProtomanSpriteSheet_68
+    21300136: ProtomanSpriteSheet_69
+    21300138: ProtomanSpriteSheet_70
+    21300140: ProtomanSpriteSheet_71
+    21300142: ProtomanSpriteSheet_72
+    21300144: ProtomanSpriteSheet_73
+    21300146: ProtomanSpriteSheet_74
+    21300148: ProtomanSpriteSheet_75
+    21300150: ProtomanSpriteSheet_76
+    21300152: ProtomanSpriteSheet_77
+    21300154: ProtomanSpriteSheet_78
+    21300156: ProtomanSpriteSheet_79
+    21300158: ProtomanSpriteSheet_80
+    21300160: ProtomanSpriteSheet_81
+    21300162: ProtomanSpriteSheet_82
+    21300164: ProtomanSpriteSheet_83
+    21300166: ProtomanSpriteSheet_84
+    21300168: ProtomanSpriteSheet_85
+    21300170: ProtomanSpriteSheet_86
+    21300172: ProtomanSpriteSheet_87
+    21300174: ProtomanSpriteSheet_88
+    21300176: ProtomanSpriteSheet_89
+    21300178: ProtomanSpriteSheet_90
+    21300180: ProtomanSpriteSheet_91
+    21300182: ProtomanSpriteSheet_92
+    21300184: ProtomanSpriteSheet_93
+    21300186: ProtomanSpriteSheet_94
+    21300188: ProtomanSpriteSheet_95
+    21300190: ProtomanSpriteSheet_96
+    21300192: ProtomanSpriteSheet_97
+    21300194: ProtomanSpriteSheet_98
+    21300196: ProtomanSpriteSheet_99
+    21300198: ProtomanSpriteSheet_100
+    21300200: ProtomanSpriteSheet_101
+    21300202: ProtomanSpriteSheet_102
+    21300204: ProtomanSpriteSheet_103
+    21300206: ProtomanSpriteSheet_104
+    21300208: ProtomanSpriteSheet_105
+    21300210: ProtomanSpriteSheet_106
+    21300212: ProtomanSpriteSheet_107
+    21300214: ProtomanSpriteSheet_108
+    21300216: ProtomanSpriteSheet_109
+    21300218: ProtomanSpriteSheet_110
+    21300220: ProtomanSpriteSheet_111
+    21300222: ProtomanSpriteSheet_112
+    21300224: ProtomanSpriteSheet_113
+    21300226: ProtomanSpriteSheet_114
+    21300228: ProtomanSpriteSheet_115
+    21300230: ProtomanSpriteSheet_116
+    21300232: ProtomanSpriteSheet_117
+    21300234: ProtomanSpriteSheet_118
+    21300236: ProtomanSpriteSheet_119
+    21300238: ProtomanSpriteSheet_120
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 751
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 751
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 751
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 751
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 751
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 751
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 751
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 751
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 751
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 751
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 698
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 698
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 698
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 698
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 698
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 698
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 698
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 698
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 698
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 698
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 698
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 627
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 627
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 627
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 627
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 627
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 627
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 627
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 627
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 627
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 627
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 570
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 570
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 570
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 570
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 570
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 570
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 570
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 570
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 570
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 518
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 518
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 518
+        width: 75
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 518
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 518
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 518
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 465
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 465
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 465
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 465
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 465
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 465
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 403
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 403
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 403
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 403
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 403
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 403
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 403
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 403
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 403
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 403
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 350
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 350
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 350
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 350
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 350
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 350
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 350
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 350
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 296
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 296
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 296
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 296
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 296
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 296
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 296
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 296
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 235
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 235
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 235
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 235
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 235
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 235
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 235
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 235
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 235
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 235
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 235
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 235
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 182
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 182
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 182
+        width: 65
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 182
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 124
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 124
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 124
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 124
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 124
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 124
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 124
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 124
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 124
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 124
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 65
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 65
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 65
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 65
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 65
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 65
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProtomanSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 65
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
